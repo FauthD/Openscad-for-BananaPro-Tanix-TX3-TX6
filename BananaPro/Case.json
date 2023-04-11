@@ -1,0 +1,46 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "design default values": {
+            "BoardType": "BananaPro",
+            "BodyInnerDepth": "30",
+            "BodyInnerLength": "94",
+            "BodyInnerWidth": "144",
+            "BodyThickness": "2.4",
+            "CableDoorWidth": "20",
+            "CableHoleDia": "12",
+            "Emboss": "0.3",
+            "Fontsize": "7",
+            "GapTolerance": "0.09",
+            "PcbMountHeight": "8",
+            "PcbScrewDiameter": "2",
+            "PrintThis": "vesa400",
+            "Radius": "6",
+            "ScrewDiameter": "2.5",
+            "ScrewOffset": "4.5",
+            "ScrewType": "Sink_SelfTab",
+            "ShowBoardModel": "false",
+            "ShowSSDModel": "false",
+            "Tolerance": "0.2",
+            "UnderPrint": "0.25",
+            "VesaBodyHoles": "[85, 85]"
+        },
+        "BP_Body": {
+            "PrintThis": "body"
+        },
+        "BP_Cover": {
+            "PrintThis": "cover"
+        },
+        "BP_Button": {
+            "PrintThis": "button"
+        },
+        "BP_Body_PNG": {
+            "ShowBoardModel": "true",
+            "PrintThis": "body"
+        },
+        "BP_Cover_PNG": {
+            "ShowSSDModel": "true",
+            "PrintThis": "cover"
+        }
+    }
+}

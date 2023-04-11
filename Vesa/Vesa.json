@@ -1,0 +1,29 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "design default values": {
+            "BodyThickness": "2.4",
+            "Emboss": "0.3",
+            "Fontsize": "7",
+            "PrintThis": "vesa100",
+            "Tolerance": "0.2",
+            "UnderPrint": "0.25",
+            "VesaBodyHoles": "[85, 85]",
+            "VesaExtensionSize": "400",
+            "VesaHoleDiameter": "6.5"
+        },
+        "Vesa100": {
+            "PrintThis": "vesa100"
+        },
+        "Vesa400": {
+            "PrintThis": "vesa400"
+        },
+        "Vesa200": {
+            "VesaExtensionSize": "200",
+            "PrintThis": "vesa400"
+        },
+        "Vesa400_PNG": {
+            "PrintThis": "mountvesa400"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "design default values": {
+            "BoardType": "TX6",
+            "BodyInnerDepth": "30",
+            "BodyInnerLength": "99.7",
+            "BodyInnerWidth": "165",
+            "BodyThickness": "2.4",
+            "CableDoorWidth": "20",
+            "CableHoleDia": "12",
+            "Emboss": "0.3",
+            "Fontsize": "7",
+            "GapTolerance": "0.09",
+            "PcbMountHeight": "5",
+            "PcbScrewDiameter": "2",
+            "PrintThis": "body",
+            "Radius": "6",
+            "ScrewDiameter": "2.5",
+            "ScrewOffset": "4.5",
+            "ScrewType": "Sink_SelfTab",
+            "ShowBoardModel": "false",
+            "ShowSSDModel": "false",
+            "Tolerance": "0.2",
+            "UnderPrint": "0.25",
+            "VesaBodyHoles": "[85, 85]"
+        },
+        "TX6_Body": {
+            "PrintThis": "body"
+        },
+        "TX3_Body": {
+            "BoardType": "TX3",
+            "PrintThis": "body"
+        },
+        "TXx_Cover": {
+            "PrintThis": "cover"
+        },
+        "TXx_M2Holder": {
+            "M2_SIZE": "[39,96,10]",
+            "PrintThis": "m2holder"
+        },
+        "TXx_M2Holder2": {
+            "M2_SIZE": "[26,102,10]",
+            "PrintThis": "m2holder"
+        },
+        "TXx_Cover_PNG": {
+            "ShowSSDModel": "true",
+            "PrintThis": "cover"
+        },
+        "TX3_Body_PNG": {
+            "BoardType": "TX3",
+            "ShowBoardModel": "true",
+            "PrintThis": "body"
+        },
+        "TX6_Cover_M2_Asymetric": {
+            "BoardType": "TX6",
+            "M2_SIZE": "[26,102,10]",
+            "M2_Offset":"[-16,0,0]",
+            "SSDType": "ssdm2_asymetric",
+            "PrintThis": "cover"
+        },
+        "TX6_Cover_M2_Asymetric_PNG": {
+            "BoardType": "TX6",
+            "M2_SIZE": "[26,102,10]",
+            "M2_Offset":"[-16,0,0]",
+            "SSDType": "ssdm2_asymetric",
+            "ShowSSDModel": "true",
+            "PrintThis": "cover"
+        },
+        "TX6_HeatsinkHolder": {
+            "BoardType": "TX6",
+            "PrintThis": "heatsink"
+        }
+    }
+}
