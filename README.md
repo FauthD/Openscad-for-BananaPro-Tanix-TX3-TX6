@@ -18,31 +18,30 @@ Find .stl and png files:
 
 ### A few Examples:
 
-#### BananaPro:
+| BananaPro body | BananaPro cover for 2.5" SSD | A real photo |
+| :----: | :----: | :----: |
+| <img src="BananaPro/PNG/Case_BP_Body_PNG.png" width="80%" height="80%"> | <img src="BananaPro/PNG/Case_BP_Cover_PNG.png" width="80%" height="80%"> | <img src="Images/BananaPro.jpg" width="80%" height="80%"> |
 
-<img src="BananaPro/PNG/Case_BP_Body_PNG.png" width="30%" height="30%">
-<img src="BananaPro/PNG/Case_BP_Cover_PNG.png" width="30%" height="30%">
-<img src="Images/BananaPro.jpg" width="15%" height="15%">
+| Tanix TX6 body | Tanix TX6 cover for USB M2 SSD |
+| :----: | :----: |
+| <img src="TX6/PNG/Case_TX3_Body_PNG.png" width="80%" height="80%"> | <img src="TX6/PNG/Case_TX6_Cover_M2_Asymetric_PNG.png" width="80%" height="80%"> |
 
-#### Tanix TX6:
-<img src="TX6/PNG/Case_TX3_Body_PNG.png" width="30%" height="30%">
-<img src="TX6/PNG/Case_TX6_Cover_M2_Asymetric_PNG.png" width="30%" height="30%">
+| Tanix TX6 left side | Tanix TX6 right side | Tanix TX6 cover with SSD |
+| :----: | :----: | :----: |
+| <img src="Images/TX6-1.jpg" width="80%" height="80%"> | <img src="Images/TX6-2.jpg" width="80%" height="80%"> | <img src="Images/TX6-With-SSD.jpg" width="80%" height="80%"> |
 
-<img src="Images/TX6-1.jpg" width="15%" height="15%">
-<img src="Images/TX6-2.jpg" width="15%" height="15%">
-<img src="Images/TX6-With-SSD.jpg" width="30%" height="30%">
-<img src="Images/TX6_Heatsink.jpg" width="30%" height="30%">
-<img src="Images/TX6_Heatsink_2.jpg" width="30%" height="30%">
-<img src="Images/Heatsinks.jpg" width="30%" height="30%">
+| TX6 Heatsink | TX6 Heatsink | Heatsink used |
+| :----: | :----: | :----: |
+| <img src="Images/TX6_Heatsink.jpg" width="80%" height="80%"> | <img src="Images/TX6_Heatsink_2.jpg" width="80%" height="80%"> | <img src="Images/Heatsinks.jpg" width="80%" height="80%"> |
 
-#### Tanix TX3:
-<img src="TX6/PNG/../../Images/TX3.jpg" width="30%" height="30%">
+| Tanix TX3 |
+| :----: |
+<img src="TX6/PNG/../../Images/TX3.jpg" width="40%" height="40%">
 
-#### Vesa 100 Holder:
-<img src="Images/Veas100-Holder.jpg" width="30%" height="30%">
+| Vesa 100 Holder | Vesa 200/400 Holder |
+| :----: | :----: |
+| <img src="Images/Veas100-Holder.jpg" width="80%" height="80%"> | Design is in the sources, but currently I do not have images. |
 
-#### Vesa 200/400 Holder:
-Design is in the sources, but currently I do not have images.
 
 ### Notes
 - The heatsink is a ~half of an off the self heatsink I had here. These are 53mm square.
