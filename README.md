@@ -32,6 +32,8 @@ Find .stl and png files:
 <img src="Images/TX6-2.jpg" width="15%" height="15%">
 <img src="Images/TX6-With-SSD.jpg" width="30%" height="30%">
 <img src="Images/TX6_Heatsink.jpg" width="30%" height="30%">
+<img src="Images/TX6_Heatsink_2.jpg" width="30%" height="30%">
+<img src="Images/Heatsinks.jpg" width="30%" height="30%">
 
 #### Tanix TX3:
 <img src="TX6/PNG/../../Images/TX3.jpg" width="30%" height="30%">
